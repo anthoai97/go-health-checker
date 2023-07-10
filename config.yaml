@@ -1,0 +1,3 @@
+targets:
+  - "localhost:8080/health"
+  - "http:2"
